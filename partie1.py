@@ -12,6 +12,9 @@ e = 78
 f = 7
 g = 5
 h = 0
-print ("a*a","=",a*a)
-print ("b+c+e","=",b+c+e)
-print ("d-f","=",d-f)
+print(a*a, b+c+e, d-f)
+print(5e4)
+try:
+    print(12/0)
+except:
+    print('Error: petit malin tu diviser par zero')
