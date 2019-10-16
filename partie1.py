@@ -18,3 +18,7 @@ try:
     print(12/0)
 except:
     print('Error: petit malin tu diviser par zero')
+
+## exo 3
+nom = input("entrer votre nom")
+print("bonjour", nom)
