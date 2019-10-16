@@ -38,3 +38,8 @@ var_1 = ""
 var_2 = "kamel"
 print(var_1,"est",bool(var_1))
 print(var_2,"est",bool(var_2))
+
+## exo2
+annee_actuelle = int(input("entrer annee_actuelle"))
+annee de naissance = int(input("entrer annee de naissance"))
+age = annee_actuelle-
