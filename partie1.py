@@ -22,3 +22,8 @@ except:
 ## exo 3
 nom = input("entrer votre nom")
 print("bonjour", nom)
+
+## exo
+nom = "hammiche"
+prenom = "kamel"
+print(nom + " "+ prenom)
