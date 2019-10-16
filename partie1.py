@@ -31,3 +31,10 @@ print(nom + " "+ prenom)
 ## exo5
 variable = "123"
 print(int(variable))
+
+## partie2
+  ##exo1
+var_1 = ""
+var_2 = "kamel"
+print(var_1,"est",bool(var_1))
+print(var_2,"est",bool(var_2))
