@@ -27,3 +27,7 @@ print("bonjour", nom)
 nom = "hammiche"
 prenom = "kamel"
 print(nom + " "+ prenom)
+
+## exo5
+variable = "123"
+print(int(variable))
