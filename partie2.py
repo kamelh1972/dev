@@ -20,3 +20,13 @@ number_1 = float(input("tapez nombre"))
 number_2 = float(input("tapez nombre"))
 resultat = (number_1 + number_2)
 print(resultat)
+
+##exo5
+prenom = input("quel est ton prenom").upper()
+nom = input("quel est ton nom").upper()
+print(nom[0],nom[-1])
+print(prenom[0],prenom[-1])
+print(nom[0],nom[-1],prenom[0],prenom[-1])
+age =float(input("quel est ton age"))
+
+print(round(age/33))
