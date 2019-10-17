@@ -14,3 +14,6 @@ prix2 = float(prix_jean - reduction)
 prix3 = float(prix_t_shirt - reduction)
 total = float(prix1 + prix2 + prix3)
 print(total)
+
+##exo4
+    
