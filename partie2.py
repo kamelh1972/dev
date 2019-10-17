@@ -15,5 +15,8 @@ prix3 = float(prix_t_shirt - reduction)
 total = float(prix1 + prix2 + prix3)
 print(total)
 
-##exo4
-    
+##exo
+number_1 = float(input("tapez nombre"))
+number_2 = float(input("tapez nombre"))
+resultat = (number_1 + number_2)
+print(resultat)
